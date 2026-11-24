@@ -1,0 +1,13 @@
+{
+  "version": "1.2.7",
+  "apk": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.7/mullaiptv-1.2.7.0-release.apk",
+  "sha256": "0235c7221d5f9433b17eff7995eb409ec6d529c3ea8909b4628df249d531bb09",
+  "linux_deb": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.7/mullaiptv-desktop_1.2.7_amd64.deb",
+  "linux_sha256": "336be553949c2abc882588802f9114b984410ec6a17c77405b09406c00d775f2",
+  "win_exe": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.7/MullaIPTV-Setup-1.2.7.exe",
+  "win_sha256": "c2b42dbcb0509c76bf92d44b120347557a53a482a4c8b9f96f5eae9610885c3c",
+  "win_portable": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.7/MullaIPTV-Portable-1.2.7.exe",
+  "win_portable_sha256": "c46ad27984879c5102b38d8208313597135340d79f115a8860a7167c79adba54",
+  "release_url": "https://github.com/Mulla88/MullaIPTV-Releases/releases/tag/v1.2.7",
+  "notes": "MullaIPTV v1.2.7: cross-platform in-app updater, Stremio Resume/Start Over highlight fix, and IPTV Search/Series resume prompt."
+}
