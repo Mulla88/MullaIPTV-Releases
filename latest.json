@@ -7,5 +7,7 @@
   "win_exe": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.15/MullaIPTV-Setup-1.2.15.exe",
   "win_sha256": "48630645ee5a12805446504be7dd2fd22b708344da64376c95cb3838212ea837",
   "win_portable": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.15/MullaIPTV-Portable-1.2.15.exe",
-  "win_portable_sha256": "23c7c283bfd7d1950c29b182b9eb838294e96322c05735f25f4e05e8dfdd4c67"
+  "win_portable_sha256": "23c7c283bfd7d1950c29b182b9eb838294e96322c05735f25f4e05e8dfdd4c67",
+  "apk": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.15/mullaiptv-1.2.15.0-release.apk",
+  "sha256": "2abd2ac00b3afdd98880062b2b6a3e72ce1c2d43af109edc88574b1630b83a11"
 }
