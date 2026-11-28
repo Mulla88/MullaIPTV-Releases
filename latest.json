@@ -1,13 +1,7 @@
 {
-  "version": "1.2.18",
-  "release_url": "https://github.com/Mulla88/MullaIPTV-Releases/releases/tag/v1.2.18",
-  "notes": "MullaIPTV v1.2.18 update.",
-  "linux_deb": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.18/mullaiptv-desktop_1.2.18_amd64.deb",
-  "linux_sha256": "652c185194f8dc10635b4feb19e53dcf3c8c25b61d9111bc5a8c23892febf0eb",
-  "win_exe": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.18/MullaIPTV-Setup-1.2.18.exe",
-  "win_sha256": "4cdebbcfc18a09e72b84f89700c5144ead225cf2bfd20c35122505b4109ee14c",
-  "win_portable": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.18/MullaIPTV-Portable-1.2.18.exe",
-  "win_portable_sha256": "964085c13e72dfe884640c26cd1b5dac9c03ad6b48ed68e7c425daac7fcb58d7",
-  "apk": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.18/mullaiptv-1.2.18.0-release.apk",
-  "sha256": "5bd0020875dbc2c2f5a9c3907895984a25e3179f4402903d38c887cde28a2df9"
+  "version": "1.2.19",
+  "apk": "https://github.com/Mulla88/MullaIPTV-Releases/releases/download/v1.2.19/mullaiptv-1.2.19.0-release.apk",
+  "sha256": "1a007dea1c16eee6c3e51884eef48539d99694fa3db0c54a7c4b65017244eb7b",
+  "release_url": "https://github.com/Mulla88/MullaIPTV-Releases/releases/tag/v1.2.19",
+  "notes": "MullaIPTV v1.2.19 update."
 }
